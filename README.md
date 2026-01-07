@@ -63,28 +63,37 @@ A multi-user web application that allows administrators and users to manage insu
 - **Others:** Git, GitHub
 ---
 
-### 5️⃣ **Student Study Portal (Django)**
+### 2️⃣ **Student Study Portal (Django)**
 📦 **Tech:** Django, HTML, CSS, Bootstrap  
 🔗 https://github.com/jayesh7899/Student-Study-Portal-Project  
 An educational portal for students to browse course materials and dashboards.
 
+#### 📌 Description  
+Student-Study-Portal-Django is a versatile web application built with Django, offering students a centralized platform for enhanced learning and organization. It includes features such as YouTube and Wikipedia search, notes and homework management, dictionary lookup, unit conversion, book search, and a contact form for seamless communication.
+
+### 🛠️ Tech Stack
+- **Backend:** Django (Python)  
+- **Database:** SQLite  
+- **Frontend:** HTML, CSS, Django Templates  
+- **Others:** Git, GitHub
+
 ---
 
-### 2️⃣ **Photo Album App**
+### 3️⃣ **Photo Album App**
 📦 **Tech:** Python and Django
 🔗 https://github.com/jayesh7899/Photo-Album-App  
 A user-friendly app for organizing and browsing photo collections with Python scripting.
 
 ---
 
-### 3️⃣ **E-Commerce PHP Project**
+### 4️⃣  **E-Commerce PHP Project**
 📦 **Tech:** PHP, MySQL, Bootstrap  
 🔗 https://github.com/jayesh7899/E-Commerce-PHP-Project-  
 A classic e-commerce platform demonstrating product management, cart flows, and user login.
 
 ---
 
-### 4️⃣ **CRUD APP Django**
+### 5️⃣  **CRUD APP Django**
 📦 **Tech:** Django, Python  
 🔗 https://github.com/jayesh7899/CRUD-APP-Django--5  
 A clean implementation of CRUD operations showing Django fundamentals.
