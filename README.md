@@ -41,8 +41,14 @@
 ## 🌟 Top Contributed Repositories
 
 ### 1️⃣ **Insurance Management System (Django)**
-**A full-featured insurance management web application built using Python, Django SQLite.**  
-📦 **Tech:** Django, Python, SQLite, HTML, CSS, Bootstrap  
+
+  **A full-featured insurance management web application built using Python, Django SQLite.**  
+  <!-- 
+      📦 **Tech:** Django, Python, SQLite, HTML, CSS, Bootstrap
+    -->
+
+
+
 🔗 https://github.com/jayesh7899/insurance_management-Django
 
 #### 📌 Description  
@@ -64,39 +70,49 @@ A multi-user web application that allows administrators and users to manage insu
 ---
 
 ### 2️⃣ **Student Study Portal (Django)**
+
+  **An educational portal for students to browse course materials and dashboards.**  
+  
 📦 **Tech:** Django, HTML, CSS, Bootstrap  
+
 🔗 https://github.com/jayesh7899/Student-Study-Portal-Project  
-An educational portal for students to browse course materials and dashboards.
 
 #### 📌 Description  
 Student-Study-Portal-Django is a versatile web application built with Django, offering students a centralized platform for enhanced learning and organization. It includes features such as YouTube and Wikipedia search, notes and homework management, dictionary lookup, unit conversion, book search, and a contact form for seamless communication.
 
-### 🛠️ Tech Stack
-- **Backend:** Django (Python)  
-- **Database:** SQLite  
-- **Frontend:** HTML, CSS, Django Templates  
-- **Others:** Git, GitHub
 
 ---
 
 ### 3️⃣ **Photo Album App**
+
+  **A user-friendly app for organizing and browsing photo collections with Python scripting.**  
+  
 📦 **Tech:** Python and Django
+
 🔗 https://github.com/jayesh7899/Photo-Album-App  
-A user-friendly app for organizing and browsing photo collections with Python scripting.
+
 
 ---
 
 ### 4️⃣  **E-Commerce PHP Project**
+
+  **A classic e-commerce platform demonstrating product management, cart flows, and user login.**  
+  
 📦 **Tech:** PHP, MySQL, Bootstrap  
+
 🔗 https://github.com/jayesh7899/E-Commerce-PHP-Project-  
-A classic e-commerce platform demonstrating product management, cart flows, and user login.
+
 
 ---
 
 ### 5️⃣  **CRUD APP Django**
+
+  **A clean implementation of CRUD operations showing Django fundamentals.**  
+
 📦 **Tech:** Django, Python  
+
 🔗 https://github.com/jayesh7899/CRUD-APP-Django--5  
-A clean implementation of CRUD operations showing Django fundamentals.
+
 
 ---
 
