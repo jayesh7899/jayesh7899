@@ -36,30 +36,17 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=jayesh7899&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayesh7899&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-<!--  
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jayesh7899&limit=5&theme=merko&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=jayesh7899&icon=4&color=0)](https://visitcount.itsvg.in)
-
- -->
- ## 🏆 Top Contributed Repo  
-
-### 🔥 **Insurance Management System (Django)**  
-**A full-feature web application that simulates an insurance management workflow, built using Python, Django and SQLite.**
-
-
-
-**🔗 Repository:** https://github.github.com/jayesh7899/insurance_management-Django
-
 ---
 
-### 📌 Description  
-A multi-user web application that allows administrators and users to manage insurance policies, customers, and related workflows. This project demonstrates solid backend logic, authentication, and user management using Django’s robust MVC architecture. :contentReference[oaicite:0]{index=0}
+## 🌟 Top Contributed Repositories
 
----
+### 1️⃣ **Insurance Management System (Django)**
+**A full-featured insurance management web application built using Python, Django SQLite.**  
+📦 **Tech:** Django, Python, SQLite, HTML, CSS, Bootstrap  
+🔗 https://github.com/jayesh7899/insurance_management-Django
+
+#### 📌 Description  
+A multi-user web application that allows administrators and users to manage insurance policies, customers, and related workflows. The project Insurance Management system is a web based application created frontend using python and Django and backend using sqlite database. In this application have three panels User, Admin and customer. Each panel have login and signup page. Admin, client and user can use this application that contains policy details like available policy, applied policy, policy categaries and Payment details fields in same website. 
 
 ### 🚀 Features
 - ✅ **User Authentication** — Login & registration system with role-based access  
@@ -69,13 +56,38 @@ A multi-user web application that allows administrators and users to manage insu
 - ✅ **Responsive UI** — Clean and intuitive interface using HTML & CSS  
 - ✅ **Secure data handling** with Django ORM
 
----
-
 ### 🛠️ Tech Stack
 - **Backend:** Django (Python)  
 - **Database:** SQLite  
 - **Frontend:** HTML, CSS, Django Templates  
 - **Others:** Git, GitHub
+---
+
+### 5️⃣ **Student Study Portal (Django)**
+📦 **Tech:** Django, HTML, CSS, Bootstrap  
+🔗 https://github.com/jayesh7899/Student-Study-Portal-Project  
+An educational portal for students to browse course materials and dashboards.
+
+---
+
+### 2️⃣ **Photo Album App**
+📦 **Tech:** Python and Django
+🔗 https://github.com/jayesh7899/Photo-Album-App  
+A user-friendly app for organizing and browsing photo collections with Python scripting.
+
+---
+
+### 3️⃣ **E-Commerce PHP Project**
+📦 **Tech:** PHP, MySQL, Bootstrap  
+🔗 https://github.com/jayesh7899/E-Commerce-PHP-Project-  
+A classic e-commerce platform demonstrating product management, cart flows, and user login.
+
+---
+
+### 4️⃣ **CRUD APP Django**
+📦 **Tech:** Django, Python  
+🔗 https://github.com/jayesh7899/CRUD-APP-Django--5  
+A clean implementation of CRUD operations showing Django fundamentals.
 
 ---
 
