@@ -44,9 +44,39 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=jayesh7899&icon=4&color=0)](https://visitcount.itsvg.in)
 
-
-
-
-
  -->
+ ## 🏆 Top Contributed Repo  
+
+### 🔥 **Insurance Management System (Django)**  
+**A full-feature web application that simulates an insurance management workflow, built using Python, Django and SQLite.**
+
+
+
+**🔗 Repository:** https://github.github.com/jayesh7899/insurance_management-Django
+
+---
+
+### 📌 Description  
+A multi-user web application that allows administrators and users to manage insurance policies, customers, and related workflows. This project demonstrates solid backend logic, authentication, and user management using Django’s robust MVC architecture. :contentReference[oaicite:0]{index=0}
+
+---
+
+### 🚀 Features
+- ✅ **User Authentication** — Login & registration system with role-based access  
+- ✅ **Admin Dashboard** — View, add, update & delete policies and customers  
+- ✅ **User Panel** — View available policies and personal details  
+- ✅ **CRUD Operations** — Complete data management for policies and users  
+- ✅ **Responsive UI** — Clean and intuitive interface using HTML & CSS  
+- ✅ **Secure data handling** with Django ORM
+
+---
+
+### 🛠️ Tech Stack
+- **Backend:** Django (Python)  
+- **Database:** SQLite  
+- **Frontend:** HTML, CSS, Django Templates  
+- **Others:** Git, GitHub
+
+---
+
 
