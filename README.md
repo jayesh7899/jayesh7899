@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **Django and ReactJs Projects**
+- 🔭 I’m currently working on **Django and Laravel Projects**
 
 - 🌱 I’m currently learning **React Native and Laravel-12**
 
@@ -28,7 +28,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 ## 📊 GitHub Stats:
@@ -46,7 +46,6 @@
   <!-- 
       📦 **Tech:** Django, Python, SQLite, HTML, CSS, Bootstrap
     -->
-
 
 
 🔗 https://github.com/jayesh7899/insurance_management-Django
@@ -69,7 +68,21 @@ A multi-user web application that allows administrators and users to manage insu
 - **Others:** Git, GitHub
 ---
 
-### 2️⃣ **Student Study Portal (Django)**
+### 2️⃣ **User Management Project (Laravel 12)**
+
+  **A User Management System Project built using **Laravel 12** — ideal for managing registered users, roles, authentication, and basic CRUD operations in a web application.**  
+  
+📦 **Tech:** Laravel , HTML, CSS, Bootstrap  
+
+🔗 https://github.com/jayesh7899/User_Management_Project__Laravel12
+
+#### 📌 Description  
+It is a web application built using Laravel 12, This project provides a clean and structured Laravel application that demonstrates how to build and manage users using the **Laravel framework**. It can be used as a starting base for more complex applications that require user registration, login, profile handling, and user administration dashboard.
+
+
+---
+
+### 3️⃣ **Student Study Portal (Django)**
 
   **An educational portal for students to browse course materials and dashboards.**  
   
@@ -83,7 +96,7 @@ Student-Study-Portal-Django is a versatile web application built with Django, of
 
 ---
 
-### 3️⃣ **Photo Album App**
+### 4️⃣ **Photo Album App**
 
   **A user-friendly app for organizing and browsing photo collections with Python scripting.**  
   
@@ -91,16 +104,8 @@ Student-Study-Portal-Django is a versatile web application built with Django, of
 
 🔗 https://github.com/jayesh7899/Photo-Album-App  
 
-
----
-
-### 4️⃣  **E-Commerce PHP Project**
-
-  **A classic e-commerce platform demonstrating product management, cart flows, and user login.**  
-  
-📦 **Tech:** PHP, MySQL, Bootstrap  
-
-🔗 https://github.com/jayesh7899/E-Commerce-PHP-Project-  
+#### 📌 Description  
+The Photo Album App is a web-based or local application project designed to manage and display a collection of photos in organized albums. It provides users with an easy way to view, categorize, and browse images — ideal as a portfolio project demonstrating web development and media handling skills.
 
 
 ---
@@ -111,7 +116,26 @@ Student-Study-Portal-Django is a versatile web application built with Django, of
 
 📦 **Tech:** Django, Python  
 
-🔗 https://github.com/jayesh7899/CRUD-APP-Django--5  
+🔗 https://github.com/jayesh7899/Crud-Application-Using-Django
+
+#### 📌 Description  
+CRUD Application Using Django is a beginner-friendly web application built with Python and the Django framework. The term CRUD refers to the four fundamental operations performed in database-backed applications: Create, Read, Update, and Delete. Django makes it easy to implement these operations using its ORM (Object-Relational Mapping), templating system, and URL routing.
+
+
+---
+
+### 6️⃣  **E-Commerce PHP Project**
+
+  **A classic e-commerce platform demonstrating product management, cart flows, and user login.**  
+  
+📦 **Tech:** PHP, MySQL, Bootstrap  
+
+🔗 https://github.com/jayesh7899/E-Commerce-PHP-Project-
+
+#### 📌 Description  
+E-Commerce PHP Project is a web application built with native PHP and a relational database (usually MySQL) that simulates the core functionalities of an online shopping platform. This project demonstrates fundamental web development, user interaction, dynamic content handling, and CRUD (Create, Read, Update, Delete) operations using server-side PHP scripting.
+
+The app shows how users can browse products, manage a shopping cart, register/login, and potentially place orders — a foundational pattern for real-world e-commerce sites.
 
 
 ---
