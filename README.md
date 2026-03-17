@@ -48,7 +48,7 @@
     -->
 
 
-🔗 https://github.com/jayesh7899/insurance_management-Django
+🔗 https://github.com/jayesh7899/insurance_management.git
 
 #### 📌 Description  
 A multi-user web application that allows administrators and users to manage insurance policies, customers, and related workflows. The project Insurance Management system is a web based application created frontend using python and Django and backend using sqlite database. In this application have three panels User, Admin and customer. Each panel have login and signup page. Admin, client and user can use this application that contains policy details like available policy, applied policy, policy categaries and Payment details fields in same website. 
@@ -74,7 +74,7 @@ A multi-user web application that allows administrators and users to manage insu
   
 📦 **Tech:** Laravel , HTML, CSS, Bootstrap  
 
-🔗 https://github.com/jayesh7899/User_Management_Project__Laravel12
+🔗 https://github.com/jayesh7899/User_Management_Laravel12
 
 #### 📌 Description  
 It is a web application built using Laravel 12, This project provides a clean and structured Laravel application that demonstrates how to build and manage users using the **Laravel framework**. It can be used as a starting base for more complex applications that require user registration, login, profile handling, and user administration dashboard.
